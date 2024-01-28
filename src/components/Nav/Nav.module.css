@@ -1,0 +1,12 @@
+.nav {
+  grid-area: nav;
+  background-color: blue;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+
+
+

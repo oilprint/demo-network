@@ -1,0 +1,28 @@
+.inner { 
+  color: red;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  padding: 20px 30px;
+
+}
+
+.list {
+  padding: 10px;
+  background-color: #b7faff;
+  border-radius: 20px;
+  list-style-type: none;
+}
+
+.messageList {
+  padding: 20px;
+  background-color: #c5d0ec;
+  border-radius: 20px;
+  list-style-type: none;
+}
+
+.newMessage {
+  
+  padding: 20px;
+  background-color: yellow;
+}
+

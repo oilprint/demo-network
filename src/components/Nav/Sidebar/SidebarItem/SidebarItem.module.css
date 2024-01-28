@@ -1,0 +1,17 @@
+.wrapper {
+  margin: 0 auto;
+  flex-shrink: 0;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.name {
+  font-style: bold;
+  color: white;
+}
