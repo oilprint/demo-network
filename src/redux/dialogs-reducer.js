@@ -1,5 +1,6 @@
 const UPDATE_NEW_MESSAGE_TEXT = 'UPDATE-NEW-MESSAGE-TEXT';
 const ADD_NEW_MESSAGE_TEXT = 'ADD-NEW-MESSAGE-TEXT';
+
 let initialState = {
       dialogs: [
         { id: 1,
