@@ -18,6 +18,7 @@ function App(props) {
           <Routes>
             <Route path='/' element={<Profile />} /> 
             <Route path='/dialogs/*' element={<DialogsContainer />} />
+            <Route path='/users/*' <div />
             {/* <Route path='*' element={<Notfoundpage />} /> */}
           </Routes>
         </div>
