@@ -3,19 +3,7 @@ const UNFOLLOW = 'UNFOLLOW';
 const SET_USERS = 'SET_USERS';
 
 let initialState = {
-  users: 
-  [{id: 1, photoAvatar: 'https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg?_=42445', followed: false,
-    firstName: 'Ivan', location:{city: 'Odesa', country: 'Ukraine'},
-    status: 'I`m fine' },
-    {id: 2, photoAvatar: 'https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg?_=42445', followed: true,
-    firstName: 'Ivan', location:{city: 'Odesa', country: 'Ukraine'},
-    status: 'I`m fine' },
-    {id: 3, photoAvatar: 'https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg?_=42445', followed: false,
-    firstName: 'Ivan', location:{city: 'Odesa', country: 'Ukraine'},
-    status: 'I`m fine' },
-    {id: 4, photoAvatar: 'https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg?_=42445', 
-    followed: true, firstName: 'Ivan', location:{city: 'Odesa', country: 'Ukraine'}, status: 'I`m fine' },
-  ]
+  users: []
 };
 
 

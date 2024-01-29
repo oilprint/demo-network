@@ -10,6 +10,7 @@ function Nav() {
       <ul>
         <NavItem title='Profile' links='/' />
         <NavItem title='Messages' links='/dialogs' />
+        <NavItem title='Users' links='/users' />
         <NavItem title='News' links='4' />
         <NavItem title='Music' links='3' />
       </ul>
